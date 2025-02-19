@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the directory where you want to clone the repository
 3. Run the following command:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Erangamadhushan/Billing-System-with-JavaFX.git
    ```
 4. Enter your GitHub credentials if prompted
 
@@ -27,12 +27,12 @@ Before you begin, ensure you have the following installed:
 
 1. First, ensure you have SSH keys set up with GitHub
    - Check existing SSH keys: `ls -al ~/.ssh`
-   - Generate new SSH key if needed: `ssh-keygen -t ed25519 -C "your_email@example.com"`
+   - Generate new SSH key if needed: `ssh-keygen -t ed25519 -C "erangamadhushann956@gmail.com"`
    - Add SSH key to your GitHub account
 
 2. Clone the repository:
    ```bash
-   git clone git@github.com:username/repository-name.git
+   git clone https://github.com/Erangamadhushan/Billing-System-with-JavaFX.git
    ```
 
 ### Method 3: GitHub Desktop
@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed:
 
 1. Navigate into the project directory:
    ```bash
-   cd repository-name
+   cd Billing-System-with-JavaFX
    ```
 
 2. Install dependencies (if applicable):
@@ -87,5 +87,4 @@ If you encounter any issues not covered in this guide, please:
 2. Open a new issue with detailed information about your problem
 3. Contact the repository maintainers
 
----
-*Note: Replace `username/repository-name` with your actual repository details.*
+
